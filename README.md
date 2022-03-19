@@ -6,3 +6,5 @@ Steps are: 1. Open cmd prompt and make one folder(on desktop or whereever) and t
 3.    npm install body-parser       --- to install bady-parser module
 4.    npm install ejs               --- to install ejs module
 5.    npm install lodash            --- to install lodash module
+
+After doing all steps mentioned above, one can use this blog website.
